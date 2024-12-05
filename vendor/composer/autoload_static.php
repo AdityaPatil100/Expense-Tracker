@@ -335,13 +335,13 @@ class ComposerStaticInit4cce853e9eca55b1c08a5a62895be559
         ),
         'Squire\\' => 
         array (
-            0 => __DIR__ . '/..' . '/squirephp/repository/src',
-            1 => __DIR__ . '/..' . '/squirephp/rule/src',
-            2 => __DIR__ . '/..' . '/squirephp/model/src',
-            3 => __DIR__ . '/..' . '/squirephp/countries/src',
-            4 => __DIR__ . '/..' . '/squirephp/countries-en/src',
-            5 => __DIR__ . '/..' . '/squirephp/currencies/src',
-            6 => __DIR__ . '/..' . '/squirephp/currencies-en/src',
+            0 => __DIR__ . '/..' . '/squirephp/countries/src',
+            1 => __DIR__ . '/..' . '/squirephp/countries-en/src',
+            2 => __DIR__ . '/..' . '/squirephp/currencies/src',
+            3 => __DIR__ . '/..' . '/squirephp/currencies-en/src',
+            4 => __DIR__ . '/..' . '/squirephp/model/src',
+            5 => __DIR__ . '/..' . '/squirephp/repository/src',
+            6 => __DIR__ . '/..' . '/squirephp/rule/src',
         ),
         'Spatie\\LaravelPackageTools\\' => 
         array (
@@ -381,8 +381,8 @@ class ComposerStaticInit4cce853e9eca55b1c08a5a62895be559
         ),
         'Psr\\Http\\Message\\' => 
         array (
-            0 => __DIR__ . '/..' . '/psr/http-message/src',
-            1 => __DIR__ . '/..' . '/psr/http-factory/src',
+            0 => __DIR__ . '/..' . '/psr/http-factory/src',
+            1 => __DIR__ . '/..' . '/psr/http-message/src',
         ),
         'Psr\\Http\\Client\\' => 
         array (
