@@ -1,4 +1,5 @@
 # Expense Tracker
+![image](https://github.com/user-attachments/assets/dfa00197-a47a-4380-98e8-848783e41a0d)
 
 
 ## Features
